@@ -10,15 +10,43 @@
     <body>
         <div class="container" style="min-height: 70vh;">
 
-        <h1 class="display-4 text-center my-5">LA KLAAC</h1>
-         
-        <h2 class="display-3 text-center my-5">La Gifle qui n'a pas de main ma moula</h2>
-    
-    </div>
+            <h1 class="display-4 text-center my-5">LA KLAAC</h1>
+            
+            <h2 class="display-3 text-center my-5">La Gifle qui n'a pas de main ma moula</h2>
+
+            <div class="row">
+                <div class="card" style="width: 18rem;">
+                    <img src="img/card1.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Enfumée</h5>
+                        <p class="card-text">Appelle les pompiers</p>
+                        <a href="#" class="btn btn-primary">Call 18 </a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="img/card2.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">c'est beau la Folie</h5>
+                        <p class="card-text">Appelle Modération</p>
+                        <a href="#" class="btn btn-danger">Call me Crazy boy</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="img/card3.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">La presence</h5>
+                        <p class="card-text">Appelle moi Prestence</p>
+                        <a href="#" class="btn btn-warning">Call me Bucket man</a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
 
-    <footer class="bg-dark text-white text-center py-3">
+        <footer class="bg-dark text-white text-center py-3">
             &copy; 2021 - RD - pas touche ma moula
         </footer>
 
