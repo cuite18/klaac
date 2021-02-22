@@ -8,9 +8,11 @@
         <title>La KLAAC</title>
     </head>
     <body>
-        <div class="container" style="min-height: 70;">
+        <div class="container" style="min-height: 70vh;">
 
         <h1 class="display-4 text-center my-5">LA KLAAC</h1>
+         
+        <h2 class="display-3 text-center my-5">La Gifle qui n'a pas de main ma moula</h2>
     
     </div>
 
